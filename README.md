@@ -80,3 +80,14 @@ This project is proprietary software. All rights reserved.
 ## Acknowledgments
 
 Special thanks to NOAA for providing tidal and current data through their APIs. 
+
+## Future Goals
+
+### Expanded Station Support
+- Integration with Canadian Hydrographic Service (CHS) stations
+- Support for Lubec Channel region:
+  - Currently accessible via NOAA's Eastport, ME station (ID: 8410140)
+  - Future direct support for CHS Station data (e.g., Lubec - North Entrance, Station Code: 00016)
+  - Potential integration with additional data sources like US Harbors
+
+**Note for Lubec Channel Users:** Currently, the best way to monitor Lubec Channel conditions is to use the Eastport, ME station (NOAA Station ID: 8410140), located approximately 6 miles west of Lubec. This station provides representative tidal conditions for the area and is fully compatible with the current version of the application. 
