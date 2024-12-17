@@ -3,7 +3,7 @@
 
 A sophisticated Python application for analyzing and visualizing tidal data from New York Harbor (The Battery) and Western Long Island Sound (Kings Point), with integrated current velocity data from Hell Gate.
 
-![Tide Plots Icon](TidePlotsIcon.png)
+![Tides Application Screenshot](tides.png)
 
 ## Features
 
